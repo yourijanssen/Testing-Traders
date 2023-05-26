@@ -4,9 +4,9 @@ This repository contains a project where I wrote my first Unit and Integration t
 # How to setup
 
 Install the node modules using npm;
-Set test environment by typing "npm run setTestEnv"
-Start tests by typing "npm run test"
-Start the backend server by typing "npm start";
+Set test environment by typing "npm run setTestEnv";
+Start tests by typing "npm run test";
+Start the backend server by typing "npm start".
 
 
 
